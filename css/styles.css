@@ -2091,3 +2091,28 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+/*--------------   footer ADDED  =========*/
+.footer .container .last span{
+	color: rgb(5, 121, 216);
+}
+
+/*--------------- LASTONE ---------------*/
+.lastonetwo {
+	padding-top: 8rem;
+	padding-bottom: 3.5rem;
+	background-color: #4633af;
+}
+
+.lastonetwo img {
+	/*margin-bottom: 2rem;*/
+	margin-top: -50px;
+}
+
+.lastonetwo h3 {
+	margin-bottom: 1.125rem;
+}
+
+.lastonetwo .btn-solid-reg {
+	margin-top: 0.5rem;
+}
