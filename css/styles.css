@@ -2116,3 +2116,9 @@ a:hover.back-to-top {
 .lastonetwo .btn-solid-reg {
 	margin-top: 0.5rem;
 }
+
+.basic-3 .text-container .one i{
+	font-size: 36px;
+	float: left;
+	margin-left: -40px;
+}
