@@ -2092,12 +2092,15 @@ a:hover.back-to-top {
 }
 /* end of min-width width 1200px */
 
+
+/*====================================     GITHUB CHANGES   ====================================*/
+
 /*--------------   footer ADDED  =========*/
 .footer .container .last span{
 	color: rgb(5, 121, 216);
 }
 
-/*--------------- LASTONE ---------------*/
+/*--------------- LASTONE SECTION OF PAGE ---------------*/
 .lastonetwo {
 	padding-top: 8rem;
 	padding-bottom: 3.5rem;
@@ -2117,8 +2120,75 @@ a:hover.back-to-top {
 	margin-top: 0.5rem;
 }
 
+/*=======   WHY US?   ======*/
 .basic-3 .text-container .one i{
 	font-size: 36px;
 	float: left;
 	margin-left: -40px;
 }
+
+/*=========== FEATURES  ============================*/
+/* Services Section
+--------------------------------*/
+
+#services {
+	padding: 30px 0 0 0;
+  }
+  
+  #services .box {
+	padding: 40px;
+	margin-bottom: 40px;
+	box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.1);
+	background: rgb(27, 54, 77);
+	transition: 0.4s;
+  }
+  
+  #services .box:hover {
+	box-shadow: 0px 0px 30px rgba(36, 54, 104, 0.822);
+	transform: translateY(-10px);
+	-webkit-transform: translateY(-10px);
+	-moz-transform: translateY(-10px);
+  }
+  
+  #services .box .icon {
+	float: left;
+  }
+  
+  #services .box .icon i {
+	color: #423685;
+	font-size: 64px;
+	transition: 0.5s;
+	line-height: 0;
+	margin-top: 34px;
+  }
+  
+  #services .box .icon i:before {
+	background: #010308;
+	background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
+	background-clip: border-box;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+  
+  #services .box h4 {
+	margin-left: 100px;
+	font-weight: 700;
+	margin-bottom: 15px;
+	font-size: 22px;
+  }
+  
+  #services .box h4 a {
+	color: rgb(240, 240, 247);
+	text-decoration: none;
+  }
+  
+  #services .box p {
+	font-size: 14px;
+	margin-left: 100px;
+	margin-bottom: 0;
+	line-height: 24px;
+  }
+  #services .section-header h2{
+	  margin-bottom: 20px;
+	  color: rgb(5, 5, 5);
+  }
