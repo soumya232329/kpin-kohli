@@ -2192,3 +2192,19 @@ a:hover.back-to-top {
 	  margin-bottom: 20px;
 	  color: rgb(5, 5, 5);
   }
+
+
+.row .Kpinvslinktree{
+	text-align: center;
+	margin-bottom: 15px;
+}
+.row .Kpinvslinktree span{
+	color: rgb(38, 184, 98);
+}
+.row .Kpinvs{
+	text-align: center;
+	margin-bottom: 15px;
+}
+.row .Kpinvs span{
+	color: rgb(32, 173, 154);
+}
